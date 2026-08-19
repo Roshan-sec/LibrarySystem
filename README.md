@@ -39,6 +39,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1590" height="910" alt="image" src="https://github.com/user-attachments/assets/1ef451b2-205a-458e-b5cb-38e3c4bf161e" />
 
 
 
@@ -57,6 +58,9 @@ Better understand the general overview of the schematics of an application.
 Visually express any specific needs of a system and disseminate that information throughout the business.
 
 Create detailed charts that…
+
+<img width="1547" height="920" alt="image" src="https://github.com/user-attachments/assets/c494cb24-219b-4f14-ae3d-82f9e746d678" />
+
 
 
 
@@ -78,6 +82,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
+<img width="1265" height="737" alt="image" src="https://github.com/user-attachments/assets/644089b2-c978-4fb9-8891-7dcc438a6cf8" />
 
 
 
@@ -97,6 +102,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="1132" height="678" alt="image" src="https://github.com/user-attachments/assets/c789f565-6573-49d5-8772-a33aee1a22b6" />
 
 
 
@@ -119,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1247" height="733" alt="image" src="https://github.com/user-attachments/assets/dae6fed2-26ff-4b24-95b0-5856c531749f" />
 
 
 
